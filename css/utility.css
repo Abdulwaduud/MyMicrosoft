@@ -1,0 +1,23 @@
+/* margins */
+.margin-x-primary {
+  margin-left: var(--margin-primary);
+  margin-right: var(--margin-primary);
+}
+
+.margin-y-small {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.margin-y-medium {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+/* flrxbox */
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
